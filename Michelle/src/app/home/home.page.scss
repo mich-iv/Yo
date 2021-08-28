@@ -26,13 +26,22 @@
   text-decoration: none;
 }
 
-.titulo {
+.titulo{
   width: 75%;
   height: 50vh;
   text-align: center;
   line-height: 25vh;
   font-size: 8vw;
   margin: 0 0 0 0;
+  position: relative;
+  left: 12%;
+}
+
+.boton{
+  text-align: right;
+  width: 75%;
+  height: 20%;
+  font-size: 100%;
 }
 .anim {
   color: inherit;
